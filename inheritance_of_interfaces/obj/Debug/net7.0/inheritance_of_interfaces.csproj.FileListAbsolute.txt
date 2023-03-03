@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/inheritance_of_interfaces
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/inheritance_of_interfaces.deps.json
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/inheritance_of_interfaces.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/inheritance_of_interfaces.dll
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/inheritance_of_interfaces.pdb
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.dll
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/refint/inheritance_of_interfaces.dll
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.pdb
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/inheritance_of_interfaces.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/obj/Debug/net7.0/ref/inheritance_of_interfaces.dll

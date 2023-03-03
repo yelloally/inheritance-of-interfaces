@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCn2+X/+h8M1wij+ketAfQX7mruF8HPrXmTe9PK0D6InmCKZJAiiNKpdyTGGjDY8vyU1ane0wBXJ2wxmmctx+g==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/inheritance_of_interfaces/inheritance_of_interfaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/microsoft.dotnet.platformabstractions/5.0.0-preview.5.20278.1/microsoft.dotnet.platformabstractions.5.0.0-preview.5.20278.1.nupkg.sha512"
+  ],
+  "logs": []
+}
